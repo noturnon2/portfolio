@@ -89,6 +89,20 @@ Efetuar análise de segmentação.
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
+## Referência
+
+ - [Projeto]()
+ - [README.SO](https://readme.so/pt/editor)
+ - [My profile on GitHub](https://github.com/noturnon2)
+
+## Autores
+
+- [@noturnon2](https://github.com/noturnon2)
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ##
 <div align="center">Feito com 😍 por <a href="[https://github.com/noturnon2](https://github.com/noturnon2)">Luiz Marques</a>.</div>
 
