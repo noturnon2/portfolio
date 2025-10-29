@@ -48,14 +48,15 @@ Efetuar análise de segmentação.
 </table>
 
 1. Contexto do Projeto
-* Empresa de e-commerce quer entender seus clientes para campanhas personalizadas.
-* Dados disponíveis: ID do cliente, idade, renda anual, pontuação de gastos, frequência de compras, etc.
+* Nome da base: vendas_loja_seminovos
+* Empresa venda de automóveis quer entender seus clientes para campanhas personalizadas.
+* Dados disponíveis: ID, Nome Completo, Idade, CPF, Sexo, Estado Civil, E-mail, Telefone, Cidade, Estado, Marca, Modelo, Ano_fabricacao, Cor, Valor_venda, Data_venda e Forma_pagamento.
   
 2. Tratamento de Dados
 
 * Limpeza de dados (valores nulos, duplicados).
 * Normalização ou padronização de variáveis.
-* Criação de variáveis derivadas (ex: faixa etária, categoria de renda).
+* Criação de variáveis derivadas (ex: faixa etária, categoria por marca).
 
 3. Análise Exploratória
 
