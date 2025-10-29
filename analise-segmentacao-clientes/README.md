@@ -2,6 +2,12 @@
 
 <!-- comentário teste -->
 
+[![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 ## Objetivo
 Efetuar análise de segmentação.
 
@@ -71,6 +77,20 @@ Efetuar análise de segmentação.
 
 * Como a empresa pode usar essa segmentação.
 * Sugestões de campanhas ou ações específicas.
+
+## Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizcardineli/)
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/noturnon2_85753_76034)
+
+## Etiquetas
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+##
+<div align="center">Feito com 😍 por <a href="[https://github.com/noturnon2](https://github.com/noturnon2)">Luiz Marques</a>.</div>
 
 <!-- ## Tables -->
 
